@@ -4,6 +4,8 @@ This is a project I made to turn my Christmas tree into an Alexa Voice Service d
 
 It's hacked together, but it works.
 
+https://www.youtube.com/watch?v=72a-LV7hlk4
+
 ## Requirements
 
 * Arduino
